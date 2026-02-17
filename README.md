@@ -48,29 +48,6 @@ AI/ML engineer and solutions architect with **4+ years of production experience*
 
 ## 💼 AI/ML Experience Highlights
 
-### 🔬 R&D Engineer @ PlenOptika (2025 - Present)
-- **AI-Powered Diagnostics**: Architected deep learning pipeline for automated eye disease detection achieving **95%+ accuracy** on clinical validation set
-- **Real-Time Inference**: Optimized PyTorch models with ONNX Runtime reducing inference latency from **800ms to <100ms** (8x improvement)
-- **MLOps Implementation**: Built automated retraining pipeline processing **50K+ medical images/month** with continuous model performance monitoring
-- **Regulatory ML**: Ensured AI system compliance with FDA medical device standards (ISO 13485, IEC 62304)
-
-### 💻 Lead Software Engineer @ SENSIA (2024 - 2025)
-- **Production GenAI**: Deployed generative AI models for image enhancement, improving image quality scores by **40%** in low-light conditions
-- **ML Pipeline Architecture**: Designed end-to-end ML infrastructure on AWS (SageMaker, Lambda, Step Functions) serving **1M+ predictions/day**
-- **Team Leadership**: Mentored 5 engineers on ML best practices, PyTorch optimization, and AWS AI services adoption
-- **Cost Optimization**: Reduced ML infrastructure costs by **55%** through GPU instance optimization and model quantization
-
-### 🚀 Software & Image Processing Engineer @ SENSIA (2024)
-- **Deep Learning Models**: Implemented optical flow and image stabilization using RAFT architecture, reducing motion artifacts by **65%**
-- **GPU Acceleration**: Optimized CUDA kernels for real-time video processing achieving **40% performance improvement**
-- **Model Deployment**: Achieved **100% deployment success** across 12+ field installations with automated A/B testing
-- **Computer Vision R&D**: Researched and prototyped transformer-based architectures for multi-modal sensor fusion
-
-### 🔧 R&D Engineer @ 2EyesVision (2022 - 2023)
-- **ML Model Development**: Built regression models for ophthalmic measurements achieving **±0.05D precision**
-- **Edge AI Deployment**: Deployed TensorFlow Lite models on Raspberry Pi for real-time device calibration
-- **Data Pipeline**: Created automated data collection and annotation pipeline processing **10K+ samples**
-
 ---
 
 ## 🛠️ AI/ML Technical Stack
