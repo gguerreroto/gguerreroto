@@ -20,27 +20,7 @@ AI/ML engineer and solutions architect with **4+ years of production experience*
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="120px"/><br/>
-      <b>Solutions Architect<br/>Professional</b>
-    </td>
-    <td align="center">
-      <img src="https://images.credly.com/size/340x340/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png" width="120px"/><br/>
-      <b>Machine Learning Engineer<br/>Associate</b>
-    </td>
-    <td align="center">
-      <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120px"/><br/>
-      <b>Solutions Architect<br/>Associate</b>
-    </td>
-    <td align="center">
-      <img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="120px"/><br/>
-      <b>AI<br/>Practitioner</b>
-    </td>
-    <td align="center">
-      <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120px"/><br/>
-      <b>Cloud<br/>Practitioner</b>
-    </td>
-  </tr>
+    
 </table>
 
 ---
