@@ -19,7 +19,6 @@ AI/ML engineer and solutions architect with **4+ years of production experience*
 ## 🏆 AWS Certifications
 
 <table>
-  <tr>
     
 </table>
 
