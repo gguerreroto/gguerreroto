@@ -11,9 +11,8 @@
 
 AI/ML engineer and solutions architect with **4+ years of production experience** deploying deep learning models, computer vision systems, and generative AI solutions at scale. Specialized in designing **end-to-end ML pipelines** from research to production, with expertise in **AWS AI/ML services, PyTorch, and MLOps**. Passionate about building responsible AI systems that solve real-world healthcare and enterprise challenges.
 
-**Current Role**: R&D Engineer at PlenOptika | Building AI-powered clinical diagnostic systems  
+**Current Role**: R&D Engineer at PlenOptika  
 **AI Focus**: Computer Vision, Medical Imaging AI, Generative AI, MLOps, Agentic AI  
-**Impact**: Deployed models processing **10K+ predictions/day** with **sub-100ms inference latency**
 
 ---
 
